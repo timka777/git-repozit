@@ -1,4 +1,4 @@
-printf("Hello!");
-printf("Hi everyone");
-printf("QQ");
-printf("Hello my friend");
+printf("Hello!;");
+printf("Hi everyone;");
+printf("QQ;");
+printf("Hello my friend;");
