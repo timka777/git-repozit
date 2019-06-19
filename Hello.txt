@@ -1,2 +1,4 @@
 printf("Hello!;");
 printf("Hi everyone;");
+printf("QQ;");
+printf("Hello my friend;");
