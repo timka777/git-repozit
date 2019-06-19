@@ -1,0 +1,2 @@
+printf("goodbye");
+printf("bb all");
